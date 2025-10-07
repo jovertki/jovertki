@@ -1,22 +1,24 @@
 <!-- Java Developer,**5+** **years** experience -->
 
-**PAVEL BORISOV** +7 (771) 332-9185
+# **PAVEL BORISOV** 
+
++7 (771) 332-9185
 
 GMT+5
 
 borisof.pavel@gmail.com Linkedln GitHub
 
-# ABOUT
+## ABOUT
 
 Java developer with **5+** **years** of commercial experience, working in teams ranging from 2 to 30members, both remotely and on-site. Contributed to projects of various scales - from internal business tools to large B2C products. Built full development cycles: from requirements analysis and API design to CI/CD pipelines and production monitoring. Led cross-team feature development and participated in architectural decisions and process improvements. Experienced in developing and optimizing **high-load,** low-latency, high-performance applications for real-time processing at scale.In addition to core Java/backend knowledge I have hands-on experience in Python and frontend
 
 development with Thymeleaf. My hobby is teaching Java and mentoring interns and juniors (2+years).
 
-# SKILLS
+## SKILLS
 
 **Java** **stack:** Java, Spring Framework, Spring Boot, Hibernate, PostgreSQL, OracleDB, MongoDB, Kafka,RabbitMQ, Redis, REST API, SOAP, Maven, Gradle, JUnit, Mockito, Keycloak, AWS (SQS, S3),MinlO,Liquibase, Elasticsearch, Logstash, Postman, Grafana, Kibana, Microservices, Monolith architecture **Other**:Python, Kotlin, SonarQube, Jaeger, Git, Docker, Kubernetes, Jenkins, Jira
 
-# EXPERIENCE
+## EXPERIENCE
 
 HOME CREDIT BANK | 01/2024 - PRESENT, 1.5+YEARS
 
@@ -32,7 +34,7 @@ HOME CREDIT BANK | 01/2024 - PRESENT, 1.5+YEARS
 
 **Technologies**: Java 17, Spring, Redis, Keycloak, Hibernate, OracleDB, Liquibase, RabbitMQ,Elasticsearch, Kubernetes, MinlO, SonarQube
 
-# YANDEX | 08/2022-01/2024, 1.5 YEARS
+## YANDEX | 08/2022-01/2024, 1.5 YEARS
 
 ·Delivered integration with partners, scaling to 1000 **RPS** with **99.9%** **SLA,** attracting 2x more users than expected.
 
@@ -54,7 +56,7 @@ IMMOVIEWER | 04/2020 - 08/2022,2.5 YEARS
 
 **Technologies**: Java 8/17, Spring, Hibernate, PostgreSQL, MongoDB, GraphQL, Docker, AWS(SQS, S3)
 
-# EDUCATION
+## EDUCATION
 
 BAUMAN MOSCOW STATE UNIVERSITY - MASTER, 2018 - 2020
 
