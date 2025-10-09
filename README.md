@@ -6,7 +6,9 @@
 
 GMT+5
 
-borisof.pavel@gmail.com Linkedln GitHub
+borisof.pavel@gmail.com
+
+[LinkedIn](www.linkedin.com/in/pavelborisov-jovertki)
 
 ## ABOUT
 
