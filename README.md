@@ -10,9 +10,8 @@ borisof.pavel@gmail.com Linkedln GitHub
 
 ## ABOUT
 
-Java developer with **5+** **years** of commercial experience, working in teams ranging from 2 to 30members, both remotely and on-site. Contributed to projects of various scales - from internal business tools to large B2C products. Built full development cycles: from requirements analysis and API design to CI/CD pipelines and production monitoring. Led cross-team feature development and participated in architectural decisions and process improvements. Experienced in developing and optimizing **high-load,** low-latency, high-performance applications for real-time processing at scale.In addition to core Java/backend knowledge I have hands-on experience in Python and frontend
-
-development with Thymeleaf. My hobby is teaching Java and mentoring interns and juniors (2+years).
+Java developer with **5+ years** of commercial experience, working in teams of 4-30 members, both remotely and on-site in top-1 CIS tech company and in major international bank (5+ countries including US). Contributed to projects of various scales — from internal business tools to large B2C products. Participated in all development cycle stages: from requirements analysis and API design to CI/CD pipelines and production monitoring. Led cross-team feature development and contributed to architectural decisions and process improvements. Experienced in developing and optimizing **high-load**, low-latency, high-performance applications for real-time processing at scale. 
+Also experienced in python, template-based frontend and mentoring.
 
 ## SKILLS
 
